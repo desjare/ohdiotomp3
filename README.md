@@ -1,4 +1,4 @@
-# mtsmerge
+# ohdiotomp3.py
 
 ohdiotomp3.py utility script
 
