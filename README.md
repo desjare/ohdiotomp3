@@ -1,8 +1,8 @@
 # ohdiotomp3.py
 
-ohdiotomp3.py utility script
+ohdiotomp3.py podcast convertion utility script
 
-This script is used to convert mp4 audio track to mp3 so that old mp3 player can read them
+This script is used to convert mp4 audio track to mp3 so that old mp3 player can read them.
 
 The script won't delete or cleanup your files.
 
