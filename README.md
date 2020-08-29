@@ -8,11 +8,11 @@ The script won't delete or cleanup your files.
 
 **Usage:**
 
-python3 ohdiotomp3.py from your mts directory
+python3 ohdiotomp3.py from your current mp4 directory
 
 or
 
-python3 ohdiotomp3.py --sourcedir <media folder> 
+python3 ohdiotomp3.py --sourcedir **dir**
 
 or
 
