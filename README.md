@@ -24,6 +24,10 @@ ffmpeg -i file.mp4 file.mp3
 * [python3](https://www.python.org/) (tested with python 3.6.9)
 * [ffmpeg](https://ffmpeg.org/) in your path
 
+I prepared a tutorial video to learn how to do that on windowws 10:
+
+https://youtu.be/JPX1237UqpY
+
 **Trademarks**
 
 OHdio is a registered trademark from ©Société Radio‑Canada 
